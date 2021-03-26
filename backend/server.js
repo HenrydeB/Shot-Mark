@@ -18,4 +18,4 @@ app.use("/api/products", productRoutes);
 
 const PORT = process.env.PORT || 5000;
 
-app.listen (PORT, () => console.log(`Listening on port ${PORT}`));
+app.listen (process.env.PORT, () => console.log(`Listening on port ${PORT}`));
