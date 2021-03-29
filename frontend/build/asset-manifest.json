@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Snap-Mark/static/css/main.7a31fda0.chunk.css",
+    "main.js": "/Snap-Mark/static/js/main.2e7558bb.chunk.js",
+    "main.js.map": "/Snap-Mark/static/js/main.2e7558bb.chunk.js.map",
+    "runtime-main.js": "/Snap-Mark/static/js/runtime-main.53bf7f89.js",
+    "runtime-main.js.map": "/Snap-Mark/static/js/runtime-main.53bf7f89.js.map",
+    "static/js/2.eefc8ba4.chunk.js": "/Snap-Mark/static/js/2.eefc8ba4.chunk.js",
+    "static/js/2.eefc8ba4.chunk.js.map": "/Snap-Mark/static/js/2.eefc8ba4.chunk.js.map",
+    "static/js/3.4ec7d1e1.chunk.js": "/Snap-Mark/static/js/3.4ec7d1e1.chunk.js",
+    "static/js/3.4ec7d1e1.chunk.js.map": "/Snap-Mark/static/js/3.4ec7d1e1.chunk.js.map",
+    "index.html": "/Snap-Mark/index.html",
+    "static/css/main.7a31fda0.chunk.css.map": "/Snap-Mark/static/css/main.7a31fda0.chunk.css.map",
+    "static/js/2.eefc8ba4.chunk.js.LICENSE.txt": "/Snap-Mark/static/js/2.eefc8ba4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53bf7f89.js",
+    "static/js/2.eefc8ba4.chunk.js",
+    "static/css/main.7a31fda0.chunk.css",
+    "static/js/main.2e7558bb.chunk.js"
+  ]
+}
