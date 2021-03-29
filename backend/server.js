@@ -8,8 +8,6 @@ connectDB();
 
 const app = express();
 
-//mongodb+srv://user-123:ecommerce123@mern-learn.hw4ae.mongodb.net/myFirstDatabase?retryWrites=true&w=majority;
-
 app.use(express.json());
 
 app.get("/", (req, res) => {
